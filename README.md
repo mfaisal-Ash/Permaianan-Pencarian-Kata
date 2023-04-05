@@ -7,8 +7,17 @@ output dari proses tersebut dibagi dua pertama yaitu secara auto + tampilannya d
 
 small
 ![output_small](https://user-images.githubusercontent.com/56635757/230074466-9acda76b-d01c-41ef-aef8-4286b401718b.png)
+
+
+
+
 medium
 ![output_medium](https://user-images.githubusercontent.com/56635757/230074512-792598ab-95fa-4d42-8b72-793c0cceb472.png)
+
+
+
+
+
 dan large
 ![output1](https://user-images.githubusercontent.com/56635757/230074603-e0ad62f9-2ca3-4403-8023-c3705c129c2b.png)
 
